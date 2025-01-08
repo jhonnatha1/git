@@ -2,3 +2,8 @@ Era uma vez
 isso é um teste 
 
 teste
+Esse é um texto para o TITUlO 
+
+Era uma vez
+
+Esse é um texto para verificar se a branch rodape esta funcional 
